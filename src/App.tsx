@@ -1,6 +1,6 @@
 import { useWeb3React } from '@web3-react/core'
 import React from 'react'
-import AddBSCNetworkButton from './components/AddNetworkButton'
+import AddBSCNetworkButton from './components/AddBSCNetworkButton'
 import ConnectWalletButton from './components/ConnectWalletButton'
 import MessageForm from './components/MessageForm'
 import WalletInfo from './components/WalletInfo'
